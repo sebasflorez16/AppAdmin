@@ -1,0 +1,7 @@
+09/10/22
+
+Dentro del modelo de providers:
+    - Hacer una validacion en el codigo con las opciones de tipo de persona. Si es juridica
+        tener un campo para agregar el codigo tributario y guardarlo en la base de datos
+    - Una idea es enviar las opciones al fomulario y guardarlo directamente con IF
+
